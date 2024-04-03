@@ -40,7 +40,7 @@ buttons.forEach(function(button){
         }
         if(e.target.id==='lavender'){
             body.style.backgroundColor="#c56686";
-            heading.style.color="black";
+            heading.style.color="white";
         }
         if(e.target.id==='purple'){
             body.style.backgroundColor=e.target.id;
