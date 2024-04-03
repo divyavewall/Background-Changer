@@ -1,0 +1,73 @@
+body{
+    background-color:#212121;
+    color:#fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    font-size:3vw;
+    padding-top: 1vw;
+    margin-bottom:4vw;
+    font-weight:bold;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* border:1px solid red; */
+}
+
+.button-container{
+    display:flex;
+    width:2.5vw;
+    padding-left:0.5vw;
+    flex-direction: column;
+    box-shadow: 2px 2.5px 4px grey;
+}
+
+.button-container >button{
+    border:none;
+    height:2vw;
+    width:2vw;
+    gap:7px;
+    border-radius:50%;
+    margin-bottom:0.5vw;
+    border:1px solid white;
+}
+
+#pink{
+    background-color:pink;
+}
+#crimson{
+    background-color: crimson;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color:red;
+}
+#lightblue{
+    background-color: lightblue;
+}
+#blue{
+    background-color:blue;
+}
+#violet{
+    background-color:violet;
+}
+#lavender{
+    background-color:#c56686;
+}
+#purple{
+    background-color:purple;
+}
+#white{
+    background-color:white;
+}
+#grey{
+    background-color:grey;
+}
+#black{
+    background-color:black;
+}
